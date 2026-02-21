@@ -1,6 +1,4 @@
-Here is a **clear, elaborative, interview-ready explanation** of **Week 1 – UI/UX Fundamentals**. This format is perfect for **UI/UX Intern interviews + portfolio explanations** 🎯
 
----
 
 # 📚 1️⃣ UI/UX Fundamentals (Interview-Level Explanation)
 
